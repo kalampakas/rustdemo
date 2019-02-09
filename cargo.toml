@@ -1,6 +1,9 @@
 [package]
-name = "hello_cargo"
+name = "guessing_game"
 version = "0.1.0"
-authors = ["Your Name <you@example.com>"]
+authors = ["Vasileios Kalampakas <stoneforger@gmail.com>"]
+edition = "2018"
 
 [dependencies]
+
+rand = "0.3.14"
